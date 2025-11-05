@@ -1,0 +1,14 @@
+@import "tailwindcss";
+html,body,#root{height:100%}
+
+
+
+:root{
+--accent1:#ff4d6d;
+--accent2:#7c3aed;
+}
+
+
+.hero-gradient{
+background: linear-gradient(135deg,var(--accent1),var(--accent2));
+}
