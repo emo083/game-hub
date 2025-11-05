@@ -1,0 +1,52 @@
+[
+{
+"id": "1",
+"title": "Player Unknown's Battlegrounds (PUBG)",
+"coverPhoto": "https://th.bing.com/th/id/R.5dbde816b6d2a7b738fd5cf9d267421d?rik=mQvvWFDNn0ZUEw&pid=ImgRaw&r=0",
+"category": "FPS",
+"downloadLink": "https://th.bing.com/th/id/R.d24bb502f528ffffa88711f812a4d738?rik=b6lGeHnIciDc1Q&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fBeautiful-Bridge-And-Photos.jpg&ehk=Av3AP2cbXXHi4RG4QP0KKGeIxzarbVoSE%2f1udWNg7Gs%3d&risl=1&pid=ImgRaw&r=0",
+"description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+"ratings": "4.5",
+"developer": "Krafton"
+},
+{
+"id": "2",
+"title": "Among Us",
+"coverPhoto": "https://th.bing.com/th/id/R.3fac17e8bb45d81ec9b2c24655758075?rik=oVqnWYa2j4vGLQ&pid=ImgRaw&r=0",
+"category": "Social Deduction",
+"downloadLink": "https://innersloth.com/gameAmongUs.php",
+"description": "Among Us is a multiplayer social deduction game where crewmates work together while impostors try to sabotage and eliminate them.",
+"ratings": "4.3",
+"developer": "Innersloth"
+},
+{
+"id": "3",
+"title": "Stardew Valley",
+"coverPhoto": "https://tse4.mm.bing.net/th/id/OIP.qOkByMbnX0DOSkIZ5Odl4QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+"category": "Simulation",
+"downloadLink": "https://www.stardewvalley.net/",
+"description": "Stardew Valley is a relaxing farming simulator where you grow crops, raise animals, and build relationships in a charming village.",
+"ratings": "4.8",
+"developer": "ConcernedApe"
+},
+{
+"id": "4",
+"title": "Valorant",
+"coverPhoto": "https://th.bing.com/th/id/R.414dcc584cb1dbfaf1fd48104e8b7a29?rik=KT%2bBgio%2fBDCETg&pid=ImgRaw&r=0",
+"category": "Shooter",
+"downloadLink": "https://playvalorant.com/",
+"description": "Valorant is a tactical 5v5 shooter that combines precise gunplay with unique agent abilities for intense strategy-based matches.",
+"ratings": "4.4",
+"developer": "Riot Games"
+},
+{
+"id": "5",
+"title": "Minecraft",
+"coverPhoto": "https://wallpapers.com/images/hd/minecraft-pictures-298qg8xor1fpgau1.jpg",
+"category": "Sandbox",
+"downloadLink": "https://www.minecraft.net/",
+"description": "Minecraft is a sandbox building game where players explore infinite worlds and create amazing structures using different blocks.",
+"ratings": "4.7",
+"developer": "Mojang"
+}
+]
